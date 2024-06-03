@@ -1,0 +1,15 @@
+.parallaxSection {
+    height: 400px; /* Adjust the height as needed */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .content {
+    text-align: center;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.5); /* Optional: for better text visibility */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
